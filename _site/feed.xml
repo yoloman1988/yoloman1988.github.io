@@ -7,7 +7,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://yoloman1988.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://yoloman1988.github.io/" />
-<updated>2016-10-31T09:53:44+06:00</updated>
+<updated>2016-10-31T10:02:23+06:00</updated>
 <id>http://yoloman1988.github.io/</id>
 <author>
   <name>Hossain Mohd Faysal</name>
@@ -31,7 +31,7 @@
   <category scheme="http://yoloman1988.github.io/tags/#jekyll" term="jekyll" />
   <content type="html">
   
-    &lt;p&gt;nooooo:
+    &lt;p&gt;wow
 Well, I guess it’s quite obvious that I really enjoy working with Jekyll — with good reasons — so let me just briefly suggest some of the benefits of using a static site generator in favor of a heavy dynamic, database driven content management system.&lt;/p&gt;
 
 &lt;ul&gt;
